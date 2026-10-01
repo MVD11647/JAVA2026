@@ -7,7 +7,7 @@ public class Ejercicio6 {
         double divisor = 532.0;
         double resultado = dividendo / divisor;
 
-        // Mostramos el resultado con un ancho total de 15 caracteres y 2 decimales
+        // Mostramos el resultado con un ancho total de 15 caracteres(%15) y 2 decimales (.2f\n)
         System.out.printf("Resultado: %15.2f\n", resultado);
     }
 }
