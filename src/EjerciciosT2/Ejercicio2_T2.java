@@ -1,5 +1,5 @@
 package EjerciciosT2;
-/*Crea un método que acepte un número entero y retorne true si es par o false si es impar. 
+/*3.Crea un método que acepte un número entero y retorne true si es par o false si es impar. 
 Finalmente, escribe un programa que lo ponga a prueba. */
 
 import java.util.Scanner;
